@@ -71,6 +71,7 @@ A curated list of bitcoin services and tools for software developers
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 * [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
+* [Orphograph](https://orphograph.com) - Proof-of-existence notary anchoring SHA-256 fingerprints to Bitcoin via OpenTimestamps; single-file MIT MCP server lets AI agents anchor and verify receipts.
 
 ## Market Data API
 * [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
